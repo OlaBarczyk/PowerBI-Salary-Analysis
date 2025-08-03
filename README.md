@@ -95,7 +95,12 @@ This project is licensed under the [MIT License](LICENSE).
 > Created with 💡 by **Aleksandra Barczyk**
 
 <p align="center">
-  <a href="https://github.com/OlaBarczyk"><img src="https://img.shields.io/badge/GitHub-OlaBarczyk-black?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/OlaBarczyk">
+    <img src="https://img.shields.io/badge/GitHub-OlaBarczyk-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/ola-barczyk/">
+    <img src="https://img.shields.io/badge/LinkedIn-ola--barczyk-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 
