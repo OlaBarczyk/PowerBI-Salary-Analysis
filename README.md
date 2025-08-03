@@ -69,13 +69,10 @@ who want to understand how salaries vary across roles, countries, experience lev
 
 ## 📁 Project Structure
 
-├── images/ # Dashboard screenshots
-├── Interactive Salary Analysis... # Power BI .pbix file
-└── README.md # Project documentation
-
-yaml
-Kopiuj
-Edytuj
+📦 PowerBI-Salary-Analysis/
+├── 📂 images/ # Dashboard screenshots
+├── 📄 Interactive Salary Analysis Dashboard - Power BI project.pbix # Main Power BI file
+└── 📄 README.md # Project documentation
 
 ---
 
