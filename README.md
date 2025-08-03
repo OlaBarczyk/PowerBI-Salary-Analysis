@@ -5,14 +5,22 @@
   ✨ Built to showcase Power BI storytelling and data exploration techniques.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/OlaBarczyk/PowerBI-Salary-Analysis?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/OlaBarczyk/PowerBI-Salary-Analysis?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/license/OlaBarczyk/PowerBI-Salary-Analysis?color=green" alt="MIT License">
+  <img src="https://img.shields.io/badge/Built%20with-Power%20BI-yellow?style=flat&logo=powerbi" alt="Built with Power BI">
+</p>
+
 ---
 
 ## 🚀 Overview
 
 This project is designed for:
-- 📈 HR Analysts
-- 💼 Recruiters
+- 📈 HR Analysts  
+- 💼 Recruiters  
 - 🧑‍💻 Job Seekers  
+
 who want to understand how salaries vary across roles, countries, experience levels, and employment types.
 
 ---
@@ -60,31 +68,12 @@ who want to understand how salaries vary across roles, countries, experience lev
 
 ## 🛠️ Getting Started
 
-1. 📥 Download the `.pbix` file
-2. 🖥️ Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-3. 🧪 Explore and interact with the report visuals
-4. 🔄 (Optional) Connect your own data
+1. 📥 Download the `.pbix` file  
+2. 🖥️ Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/)  
+3. 🧪 Explore and interact with the report visuals  
+4. 🔄 *(Optional)* Connect your own data  
 
 ---
 
 ## 📁 Project Structure
 
-📦 PowerBI-Salary-Analysis/
-├── 📂 images/ # Dashboard screenshots
-├── 📄 Interactive Salary Analysis Dashboard - Power BI project.pbix # Main Power BI file
-└── 📄 README.md # Project documentation
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🙋‍♀️ About Me
-
-> Created with 💡 by **Aleksandra Barczyk**
-
-<p align="center">
-  <a href="https://github.com/OlaBarczyk"><img src="https://img.shields.io/badge/GitHub-OlaBarczyk-black?style=for-the-badge&logo=github"></a>
