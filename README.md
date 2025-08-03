@@ -77,3 +77,25 @@ who want to understand how salaries vary across roles, countries, experience lev
 
 ## 📁 Project Structure
 
+📦 PowerBI-Salary-Analysis/
+├── 📂 images/ # Dashboard screenshots
+├── 📄 Interactive Salary Analysis... # Main Power BI .pbix file
+├── 📄 LICENSE # MIT License
+└── 📄 README.md # Project documentation
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♀️ About Me
+
+> Created with 💡 by **Aleksandra Barczyk**
+
+<p align="center">
+  <a href="https://github.com/OlaBarczyk"><img src="https://img.shields.io/badge/GitHub-OlaBarczyk-black?style=for-the-badge&logo=github"></a>
+</p>
+
+
